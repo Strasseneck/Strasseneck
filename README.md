@@ -1,4 +1,4 @@
-Hi I'm Joe.
+Hi I'm Joe, 
 
 I used to write screenplays, now I write code. I want to make things for people first, machines second.
 
