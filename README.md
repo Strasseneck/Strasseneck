@@ -7,4 +7,4 @@ I write code and screenplays. Writing for people first, machines second.
 
 Check out my latest Medium article -
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jcopplestone_36500/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcopplestone_36500/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0" alt="Recent Article 0"> 
