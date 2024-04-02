@@ -5,4 +5,4 @@ Hi I'm Joe,
 I write code and screenplays. Writing for people first, machines second.
 
 
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jcopplestone_36500/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@jcopplestone_36500/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@jcopplestone_36500/0" alt="Recent Article 0"> 
