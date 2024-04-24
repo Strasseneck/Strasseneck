@@ -4,12 +4,12 @@ Hi I'm Joe,
 
 I write code and screenplays. Writing for people first, machines second.
 
-# Currently Learning
+## Currently Learning
 
 Setting up servers and backends with Go.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strasseneck&hide_progress=true)
 
-# Latest Medium Article
+## Latest Medium Article
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0" alt="Recent Article 0"> 
