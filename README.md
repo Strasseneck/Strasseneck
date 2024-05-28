@@ -6,7 +6,7 @@ I write code and screenplays. Writing for people first, machines second.
 
 ## Currently Learning
 
-Setting up servers and backends with Go.
+Go and how to live in the terminal.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strasseneck&hide_progress=true)
 
