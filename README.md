@@ -7,9 +7,3 @@ I write code and screenplays. Writing for people first, machines second.
 ## Currently Learning
 
 Go and how to live in the terminal.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strasseneck&hide_progress=true)
-
-## Latest Medium Article
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@joecopplestone/0" alt="Recent Article 0"> 
